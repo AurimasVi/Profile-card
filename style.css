@@ -67,6 +67,7 @@ html, body {
     align-items: center;
     position: relative;
     height: 350px;
+    width: fit-content;
 }
 
 .face {
